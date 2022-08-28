@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tw1t
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning JavaScript, HTML5, and CSS at BloomTech
+- 📫 How to reach me: I currently cannot be reached!
